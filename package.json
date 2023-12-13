@@ -12,7 +12,7 @@
     "winston": "^3.11.0"
   },
   "name": "leetcode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test code bench",
   "main": "index.js",
   "devDependencies": {},
