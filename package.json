@@ -11,6 +11,10 @@
     "serve-favicon": "^2.5.0",
     "winston": "^3.11.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flossed/leetcode.git"
+  },
   "name": "leetcode",
   "version": "0.0.1",
   "description": "Test code bench",
