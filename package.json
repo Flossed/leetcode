@@ -7,7 +7,22 @@
     "mongoose": "^5.12.6",
     "nconf": "^0.12.1",
     "nodemon": "^3.0.2",
+    "semver": "^7.5.4",
     "serve-favicon": "^2.5.0",
     "winston": "^3.11.0"
-  }
+  },
+  "name": "leetcode",
+  "version": "0.0.0",
+  "description": "Test code bench",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "javasciprt"
+  ],
+  "author": "Daniel S. A. Khan",
+  "license": "ISC"
 }
